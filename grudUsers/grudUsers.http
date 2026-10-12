@@ -1,0 +1,6 @@
+@grudUsers_HostAddress = http://localhost:5017
+
+GET {{grudUsers_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
